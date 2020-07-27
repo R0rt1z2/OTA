@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1659565784,
+      "filename": "lineage-17.1-20220803-UNOFFICIAL-douglas.zip",
+      "id": "09505353858a7e8f1c280dc8582eba81",
+      "romtype": "unofficial",
+      "size": 497891302,
+      "url": "https://github.com/mt8163-dev/android_device_amazon_douglas/releases/download/17.1-2.0/lineage-17.1-20220803-UNOFFICIAL-douglas.zip",
+      "version": "17.1"
+    }
+  ]
+}
