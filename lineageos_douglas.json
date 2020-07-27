@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1655239079,
+      "filename": "lineage-15.1-20220614-UNOFFICIAL-douglas.zip",
+      "id": "f027f45160badd8086bc8fcc995e3f8e",
+      "romtype": "unofficial",
+      "size": 450767569,
+      "url": "https://github.com/mt8163-dev/android_device_amazon_douglas/releases/download/15.1-11.0/lineage-15.1-20220614-UNOFFICIAL-douglas.zip",
+      "version": "15.1"
+    }
+  ]
+}

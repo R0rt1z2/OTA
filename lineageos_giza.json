@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1655242026,
+      "filename": "lineage-15.1-20220614-UNOFFICIAL-giza.zip",
+      "id": "d0d17f2a4c214a8cd8f26437fcb0bb9e",
+      "romtype": "unofficial",
+      "size": 450916411,
+      "url": "https://github.com/mt8163-dev/android_device_amazon_giza/releases/download/15.1-11.0/lineage-15.1-20220614-UNOFFICIAL-giza.zip",
+      "version": "15.1"
+    }
+  ]
+}
