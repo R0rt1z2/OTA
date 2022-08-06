@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1659565784,
-      "filename": "lineage-17.1-20220803-UNOFFICIAL-douglas.zip",
-      "id": "09505353858a7e8f1c280dc8582eba81",
-      "romtype": "unofficial",
-      "size": 497891302,
-      "url": "https://github.com/mt8163-dev/android_device_amazon_douglas/releases/download/17.1-2.0/lineage-17.1-20220803-UNOFFICIAL-douglas.zip",
+      "datetime": 1659813730,
+      "filename": "lineage-17.1-20220806-UNOFFICIAL-douglas.zip",
+      "id": "e6a0fac79af068151e7547c3707b1d28f97b6dd701f2ed7df105a108e83af4e5",
+      "romtype": "UNOFFICIAL",
+      "size": 482057840,
+      "url": "https://github.com/mt8163-dev/android_device_amazon_douglas/releases/download/17.1-3.0/lineage-17.1-20220806-UNOFFICIAL-douglas.zip",
       "version": "17.1"
     }
   ]
