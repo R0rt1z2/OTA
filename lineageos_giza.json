@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1659814290,
-      "filename": "lineage-17.1-20220806-UNOFFICIAL-giza.zip",
-      "id": "ff7f65cbb71809c11708baf832802e0e082551ab16a6d4377e5c2f63fb0ecfb0",
+      "datetime": "1660071371",
+      "filename": "lineage-17.1-20220809-UNOFFICIAL-giza.zip",
+      "id": "ce50cd74080af6dd3282f9366f6b9bf1990862f49813e7364f887571a8aca970",
       "romtype": "UNOFFICIAL",
-      "size": 482057840,
-      "url": "https://github.com/mt8163-dev/android_device_amazon_giza/releases/download/17.1-3.0/lineage-17.1-20220806-UNOFFICIAL-giza.zip",
+      "size": "482158314",
+      "url": "https://github.com/mt8163-dev/android_device_amazon_giza/releases/download/17.1-4.0/lineage-17.1-20220809-UNOFFICIAL-giza.zip",
       "version": "17.1"
     }
   ]
